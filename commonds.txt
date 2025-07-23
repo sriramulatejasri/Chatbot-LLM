@@ -1,0 +1,8 @@
+# Creating Virtual environment
+'''python -m venv myenv
+
+myenv\scripts\activate
+deactivate
+
+pip install -r requirements.txt
+'''
